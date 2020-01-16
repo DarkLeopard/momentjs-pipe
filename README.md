@@ -1,10 +1,10 @@
 # momentjs-pipe
 
-*JS Framework:* Angular
+**JS Framework:** Angular
 
-*Tested:* Angular 8
+**Tested:** Angular 8
 
-*Required:* Angular, [MomentJS][1] (MomentJS connected in angular.json globaly)
+**Required:** Angular, [MomentJS][1] (MomentJS connected in angular.json globaly)
 
 [1]: https://momentjs.com/
 
